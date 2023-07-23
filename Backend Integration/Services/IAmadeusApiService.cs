@@ -1,4 +1,5 @@
 using AmadeusApiIntegration;
+using ApiResponses;
 
 public interface IAmadeusApiService
 {

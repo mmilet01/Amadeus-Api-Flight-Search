@@ -1,4 +1,4 @@
-namespace AmadeusApiIntegration
+namespace ApiResponses
 {
     public abstract class BaseResponse { }
 

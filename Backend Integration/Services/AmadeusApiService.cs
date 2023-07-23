@@ -2,6 +2,7 @@ using System.Net;
 using System.Text;
 using System.Text.Json;
 using AmadeusApiIntegration;
+using ApiResponses;
 using Microsoft.Extensions.Caching.Distributed;
 
 namespace Services.AmadeusApiIntegration
