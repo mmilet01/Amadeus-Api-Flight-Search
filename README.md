@@ -10,4 +10,3 @@
 Possible improvements    
 - Better exception handling & error messages
 - Introduce logging
-- Different file structure
