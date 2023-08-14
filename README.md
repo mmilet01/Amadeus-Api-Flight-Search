@@ -10,4 +10,5 @@
 Possible improvements    
 - Better exception handling & error messages
 - Introduce logging
+- Add tests
 - Nullable warnings
